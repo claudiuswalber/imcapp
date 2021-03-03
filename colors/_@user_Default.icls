@@ -1,0 +1,23 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2021-03-02T08:07:32</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">4.0.1.0</property>
+    <property name="modified">2021-03-02T11:34:45</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="194fff" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a66f00" />
+        <option name="BACKGROUND" value="ffdf0e" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
