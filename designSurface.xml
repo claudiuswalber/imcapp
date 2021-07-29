@@ -3,7 +3,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/claud/AndroidStudioProjects/OlaMundo2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/claud/AndroidStudioProjects/teste270721/app/src/main/res/layout/activity_atendimentos.xml" value="0.1" />
         <entry key="..\:/Users/claud/AndroidStudioProjects/teste270721/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/claud/AndroidStudioProjects/teste270721/app/src/main/res/layout/activity_pacientes.xml" value="0.1" />
+        <entry key="..\:/Users/claud/AndroidStudioProjects/teste270721/app/src/main/res/layout/activity_pais.xml" value="0.1" />
+        <entry key="..\:/Users/claud/AndroidStudioProjects/teste270721/app/src/main/res/layout/activity_profissionais.xml" value="0.1" />
       </map>
     </option>
   </component>
